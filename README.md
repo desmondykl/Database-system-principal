@@ -23,6 +23,7 @@ Assignment 2 - This section presents an example of using the GUI of the Python a
 5.  Query Visualizer will be updated with an interactive operator tree and an explanation for why this plan is selected.  
 
 ![ScreenShot](/image/Picture4.png)
+
 6.  To view alternative plans, click on the drop-down menu LIST OF PLANS 
     1.  Click on any alternative plan to view the updated interactive operator tree. 
  
